@@ -1,0 +1,37 @@
+.button-container,
+.button-wrapper,
+.button-inner{
+    display: inline;
+}
+
+button {
+    margin-bottom: 20px;
+    width: 80px;
+    height: 40px;
+    justify-content: center;
+    border-radius: 20%;
+    background-color: rgb(15, 218, 15);
+    color: white;
+    cursor: pointer;
+    outline: none;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    transition: all .8s;
+}
+
+.green-button{
+    background-color:  rgb(15, 218, 15);
+    color: white;
+}
+
+.red-button{
+    background-color: red;
+    color: white;
+}
+
+.grey-button{
+    border-color: green;
+    background-color: rgb(206, 203, 203);
+    color: green;
+}
+

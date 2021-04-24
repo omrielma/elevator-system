@@ -1,0 +1,55 @@
+body {
+  background-color:rgb(206, 203, 203);
+
+}
+.btn-holder{
+  float: left;
+  width: 5%;
+  padding: 20px;
+}
+
+.flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.ctn-holder{
+  position: absolute;
+  top: 10%;
+  left: 65%;
+}
+
+.floors{
+  display: table-column;
+  justify-content: space-between;
+}
+
+.floor-name{
+  margin-top: 42%;
+  margin-right: 1px;
+  color: black;
+  margin-left: 40%;
+  margin-bottom: 40%;
+}
+
+
+.elevator-1{
+  float: left
+}
+
+.elevator-2{
+  float: left;
+}
+
+.elevator-3{
+  float: left;
+}
+
+.elevator-4{
+  float: left;
+}
+
+.elevator-5{
+  float: left;
+}

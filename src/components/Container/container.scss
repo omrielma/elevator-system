@@ -1,0 +1,13 @@
+.container-outer{
+  margin: 0;
+  padding: 0;
+
+    .container-main{
+        height: 18px;
+        width: 50px;
+        padding: 20px !important;
+        background-color:white;
+        border: 2px groove;
+        border-radius: 3px;
+    }
+}
